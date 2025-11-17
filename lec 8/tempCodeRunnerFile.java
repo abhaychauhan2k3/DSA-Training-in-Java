@@ -1,0 +1,1 @@
+System.out.println(sumOfDigit(-1245));
